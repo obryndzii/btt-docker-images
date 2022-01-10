@@ -1,3 +1,4 @@
+job-dsl
 ace-editor:1.1
 ant:1.13
 antisamy-markup-formatter:2.6
@@ -51,7 +52,7 @@ jquery3-api:3.6.0-2
 jquery-detached:1.2.1
 jsch:0.1.55.2
 junit:1.53
-kubernetes:1.30.11
+kubernetes:1.30.1
 kubernetes-client-api:5.11.1-179.v12037658df90
 kubernetes-credentials:0.9.0
 ldap:2.7
